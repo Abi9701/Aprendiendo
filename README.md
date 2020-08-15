@@ -1,4 +1,10 @@
-# Aprendiendo
-Primer intento de pagina web
+# Titulo
+HOli gente
 
-chido
+## Intro
+
+### Aabstract
+
+### Equipo
+
+##El proyecto
