@@ -7,4 +7,4 @@ HOli gente
 
 ### Equipo
 
-##El proyecto
+## El proyecto
